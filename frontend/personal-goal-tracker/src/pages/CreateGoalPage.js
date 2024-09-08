@@ -2,7 +2,6 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import GoalForm from '../components/GoalForm';
-import './CreateGoalPage.css'; // Eğer özel stil dosyanız varsa
 
 function CreateGoalPage() {
   const handleSubmit = (goal) => {

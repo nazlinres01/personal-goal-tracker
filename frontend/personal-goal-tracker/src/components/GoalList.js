@@ -1,6 +1,6 @@
 import React from 'react';
 import GoalItem from './GoalItem';
-import './GoalList.css';
+import '../styles/GoalList.css';
 
 function GoalList({ goals }) {
   return (

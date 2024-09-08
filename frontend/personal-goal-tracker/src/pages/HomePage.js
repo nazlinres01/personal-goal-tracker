@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import './HomePage.css'; // Eğer özel stil dosyanız varsa
+
 
 function HomePage() {
   return (

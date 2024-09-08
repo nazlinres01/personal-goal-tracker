@@ -1,5 +1,5 @@
 import React from 'react';
-import './GoalItem.css';
+import '../styles/GoalItem.css';
 
 function GoalItem({ goal }) {
   return (

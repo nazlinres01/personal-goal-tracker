@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './GoalForm.css';
+import '../styles/GoalForm.css';
 
 function GoalForm({ onSubmit, initialGoal = {} }) {
   const [title, setTitle] = useState(initialGoal.title || '');

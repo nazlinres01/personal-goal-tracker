@@ -3,7 +3,6 @@ import { useParams } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import GoalForm from '../components/GoalForm';
-import './EditGoalPage.css'; // Eğer özel stil dosyanız varsa
 
 function EditGoalPage() {
   const { id } = useParams();
