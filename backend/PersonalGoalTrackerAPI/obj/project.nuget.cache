@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZsnb1sPysU=",
+  "dgSpecHash": "YT5qmsLzguw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nazli\\Desktop\\Yeni klasör (3)\\personal-goal-tracker\\backend\\PersonalGoalTrackerAPI\\PersonalGoalTrackerAPI.csproj",
+  "projectFilePath": "C:\\Users\\nazli\\Desktop\\Yeni klasör (3)\\personal-goal-tracker\\backend\\PersonalGoalTrackerApi\\PersonalGoalTrackerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nazli\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",
     "C:\\Users\\nazli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

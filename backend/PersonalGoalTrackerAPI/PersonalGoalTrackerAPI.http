@@ -1,6 +1,6 @@
-@PersonalGoalTrackerAPI_HostAddress = http://localhost:5091
+@PersonalGoalTrackerApi_HostAddress = http://localhost:5075
 
-GET {{PersonalGoalTrackerAPI_HostAddress}}/weatherforecast/
+GET {{PersonalGoalTrackerApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
