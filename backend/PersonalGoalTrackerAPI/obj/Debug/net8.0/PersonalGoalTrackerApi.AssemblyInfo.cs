@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalGoalTrackerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c13f9dd0fe76eec8483d4a2189f811b3ed9f6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ea9612014e4bdbbaa95eacd5849afe33d9a0b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalGoalTrackerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalGoalTrackerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
