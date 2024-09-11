@@ -3,6 +3,15 @@ using PersonalGoalTrackerApi.Data; // Veri katmanınızın adı
 
 var builder = WebApplication.CreateBuilder(args);
 
+// CORS ayarları
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder => builder.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader());
+});
+
 // Veritabanı bağlantı dizesini yapılandır
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -27,8 +36,11 @@ else
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
-app.UseAuthorization();
 
+// CORS'u kullan
+app.UseCors("AllowAllOrigins");
+
+app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
