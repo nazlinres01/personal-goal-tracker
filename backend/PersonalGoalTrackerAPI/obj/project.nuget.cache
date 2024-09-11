@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ep0mxC+4cnw=",
+  "dgSpecHash": "0j2niBqNnko=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nazli\\Desktop\\Yeni klasör (3)\\personal-goal-tracker\\backend\\PersonalGoalTrackerApi\\PersonalGoalTrackerApi.csproj",
+  "projectFilePath": "C:\\Users\\nazli\\OneDrive\\Masaüstü\\github-projects\\personal-goal-tracker\\backend\\PersonalGoalTrackerAPI\\PersonalGoalTrackerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nazli\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nazli\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

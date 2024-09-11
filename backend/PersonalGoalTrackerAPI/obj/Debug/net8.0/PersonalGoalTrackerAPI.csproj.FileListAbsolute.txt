@@ -1,0 +1,8 @@
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.csproj.AssemblyReference.cache
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.AssemblyInfo.cs
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nazli\OneDrive\Masaüstü\github-projects\personal-goal-tracker\backend\PersonalGoalTrackerAPI\obj\Debug\net8.0\PersonalGoalTrackerAPI.sourcelink.json
